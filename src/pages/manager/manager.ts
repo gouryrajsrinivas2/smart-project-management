@@ -9,7 +9,7 @@ import { ManagerdataPage } from '../managerdata/managerdata';
  * Ionic pages and navigation.
  */
 
-@IonicPage()
+
 @Component({
   selector: 'page-manager',
   templateUrl: 'manager.html',

@@ -9,7 +9,7 @@ import { AngularFireAuth } from '@angular/fire/auth';
  * Ionic pages and navigation.
  */
 
-@IonicPage()
+
 @Component({
   selector: 'page-employeesignup',
   templateUrl: 'employeesignup.html',

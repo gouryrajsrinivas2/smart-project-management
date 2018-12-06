@@ -10,7 +10,7 @@ import { EmployeesignupPage } from '../employeesignup/employeesignup';
  * Ionic pages and navigation.
  */
 
-@IonicPage()
+
 @Component({
   selector: 'page-employee',
   templateUrl: 'employee.html',

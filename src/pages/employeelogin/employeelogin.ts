@@ -10,7 +10,7 @@ import { LoggedinPage } from '../loggedin/loggedin';
  * Ionic pages and navigation.
  */
 
-@IonicPage()
+
 @Component({
   selector: 'page-employeelogin',
   templateUrl: 'employeelogin.html',

@@ -10,7 +10,6 @@ import { ProjdataPage } from '../projdata/projdata';
  * Ionic pages and navigation.
  */
 
-@IonicPage()
 @Component({
   selector: 'page-loggedin',
   templateUrl: 'loggedin.html',
